@@ -1,0 +1,2 @@
+pygame>=2.1.0 
+# Ajoutez d'autres dépendances si nécessaire (ex: numpy si vous l'utilisez)
